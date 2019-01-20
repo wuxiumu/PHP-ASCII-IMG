@@ -34,7 +34,7 @@ function tosmallim($const = 100, $width, $height, $image)
 }
 
 
-$imname = 'http://images2015.cnblogs.com/blog/763758/201606/763758-20160612082543871-1901077809.png';
+$imname = 'https://ms.meiyoufan.com/public/img/posts/896x428.png';
 
 //返回一图像标识符，代表了从给定的文件名取得的图像
 $image = ImageCreateFromPng($imname);
